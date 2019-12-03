@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/44626791/how-to-pass-data-in-html-select-option-tag 
+
+https://stackoverflow.com/questions/871858/php-pass-variable-to-next-page
+
+https://www.tutorialspoint.com/php/php_mysql_login.htm - code for login
+
+https://www.youtube.com/watch?v=S-JG1z6Bp3U - 
+
+https://stackoverflow.com/questions/9581268/how-can-i-redirect-a-php-page-to-another-php-page
+
+https://stackoverflow.com/questions/27123470/redirect-in-php-without-use-of-header-method

@@ -1,0 +1,25 @@
+1.4
+Definition:
+The project is of making a crm to handle admission and expense process in college or organization
+Here the currently manual process is going to be transmit online
+Response, lead forwarding, expense approval, report generation all are done in one click
+
+2.3 User and characteristics
+Principan and admission coordinator :Validate expance
+head of the department : Forward leads, registration
+Faculty : school and college visit add expense
+
+2.7 Assumption and dependency
+Assumption : 
+We have assumpt to make online payment for expense module.
+In this module faculties will give their expense details and it is send to admission coordinator for approval.
+Right now we are just giving the verified pdf document regarding payment which they have to submit in account department.
+But instead of doingthat we assume that we may give online payment option.
+Once the details has been varified then organization will directly pay to the requester in his/her account. 
+Dependency : 
+all the data are of students so the complete project is depend on the student data
+If it is not given by any students then it may result into somne uncondetional errors
+
+3.3
+CRM behiviour theory represents  inter-related perspective of Cusomer Relationship Management relating to managing coorporate customer relationship.
+This  involes 52 personal intervies with services providers and there coorporate lines
